@@ -1,4 +1,5 @@
 # Build a REST API with Fastify & Prisma
+> 在 Youtube 上看到的一个 Typescript + fastify + prisma 的一个实战项目，值得参考
 
 Video: https://youtu.be/LMoMHP44-xM
 
